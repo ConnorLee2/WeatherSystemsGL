@@ -1,5 +1,5 @@
 # Weather Systems
-Weather system using NCLGL library (an OpenGL library). Executable availble in the Other folder. Dissertation also available there. The aim of this was to create a weather system which affects an environment.
+Weather system using NCLGL library (an OpenGL library). [Executable]() availble in the Other folder. [Dissertation]( https://github.com/ConnorLee2/WeatherSystemsGL/blob/master/Other/Graphical%20rendering%20of%20dynamic%20weather%20systems%20(Connor%20Lee).pdf)also available in the Other folder. The aim of this was to create a weather system which affects an environment.
 
 ## Screenshots
 ### Rain weather
@@ -29,4 +29,4 @@ Weather system using NCLGL library (an OpenGL library). Executable availble in t
 * 0 - Reset wind speed to 0.
 
 ## Credits
-* [NCLGL](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - Library used to access an OpenGL context.
+* [NCLGL](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - an OpenGL library
