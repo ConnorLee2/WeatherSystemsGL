@@ -1,12 +1,12 @@
 # Weather Systems
-Weather system using NCLGL library (an OpenGL library). [Executable]() availble in the Other folder. [Dissertation]( https://github.com/ConnorLee2/WeatherSystemsGL/blob/master/Other/Graphical%20rendering%20of%20dynamic%20weather%20systems%20(Connor%20Lee).pdf)also available in the Other folder. The aim of this was to create a weather system which affects an environment.
+Weather system using NCLGL library (an OpenGL library). [Executable](https://github.com/ConnorLee2/WeatherSystemsGL/tree/master/Other/Executable) availble in the Other folder. [Dissertation]( https://github.com/ConnorLee2/WeatherSystemsGL/blob/master/Other/Graphical%20rendering%20of%20dynamic%20weather%20systems%20(Connor%20Lee).pdf) also available in the Other folder. The aim of this was to create a weather system which affects an environment.
 
 ## Screenshots
 ### Rain weather
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherSystemsGL/master/Other/rain.png "rain")
 ### Snow weather
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherSystemsGL/master/Other/snow.png "snow")
-## Day/night system
+### Day/night system
 ![alt text](https://raw.githubusercontent.com/ConnorLee2/WeatherSystemsGL/master/Other/daynight.png "day/night system")
 
 ## Features
@@ -29,4 +29,4 @@ Weather system using NCLGL library (an OpenGL library). [Executable]() availble 
 * 0 - Reset wind speed to 0.
 
 ## Credits
-* [NCLGL](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - an OpenGL library
+* [NCLGL](https://research.ncl.ac.uk/game/mastersdegree/graphicsforgames/) - an OpenGL library.
